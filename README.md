@@ -8,3 +8,8 @@ Dostlarıma, bana olan güveniniz ve desteğiniz için minnettarım. Her biriniz
 Şimdi, bu sayfayı kapatırken sizlerden helallik istiyorum. Umarım birlikte geçirdiğimiz zamanları güzel hatırlarsınız.
 
 **Takachi out.**
+
+# Proje
+Bu projede büyük bir katkısı olduğu için cartel dostuma çok teşekkür ederim.
+
+[![Discord Presence](https://lanyard.cnrad.dev/api/719117042904727635)](https://discord.com/users/719117042904727635)
