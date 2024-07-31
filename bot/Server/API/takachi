@@ -1,0 +1,11 @@
+const { Client } = require('discord.js-selfbot-v13');
+const { App } = require('../../Global/Clients/API')
+const client = new Client();
+const sistem = require('../../Global/Settings/_system.json')
+  client.once('ready', () => {
+    console.log(`Logged in as ${client.user.username}!`);
+    const app = new App(1555, client);
+    app.startServer();
+  });
+  
+  client.login(sistem.botSettings.BOTOWNER_TOKEN);

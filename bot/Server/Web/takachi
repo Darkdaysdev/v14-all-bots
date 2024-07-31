@@ -1,0 +1,15 @@
+let { takachi } = require("../../Global/Clients/Global.Clients");
+let { Mongoose } = require("../../Global/Databases/Global.MongoDB.Driver");
+let { GUILD } = require("../../Global/Init/Settings");
+const { Websocket } = require("../../Global/Clients/Global.Web.Client");
+let { web_info, info } = require("../../Global/Settings/web_config");
+
+const client = global.client = new takachi();
+
+// Client Ayarları (Başlangıç)
+client.botName = "API"
+// Client Ayarları (SON)
+Mongoose.Connect();
+GUILD.fetch(client.sistem.SERVER.ID)
+let webClient = new Websocket(web_info.port, client)
+client.connect(client.sistem.TOKENS.Voucher);
