@@ -14,7 +14,9 @@ Bu projede büyük bir katkısı olduğu için cartel dostuma çok teşekkür ed
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/719117042904727635)](https://discord.com/users/719117042904727635)
 
+## Webten ss
 
+![image](https://github.com/user-attachments/assets/40af60e9-d93a-41b8-aace-8714c630cee2)
 
 # Darkdaysin amını sikiyim saygılar.
 
