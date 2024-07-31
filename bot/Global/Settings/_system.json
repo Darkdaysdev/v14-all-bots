@@ -23,16 +23,16 @@
     ]
   },
   "TOKENS": {
-    "Statistics": "MTEyNTUwMDQxMDQ2ODIzNzQ0Mw.Gcsrje.rAlfrzP1uz5evNaBWNQnu2kW2BA5Zbojrgod1w",
-    "Voucher": "MTEyNzg5NTM3NzE5OTI0NzQ2MA.GgKa9Y.f-Yd-STmZfor838MMJ2Vgtuv13JovqaEzURExE",
-    "SYNC": "MTEyNzg5NjE0MTc3ODkxNTM2OA.GpICzA.gqQSQ_9nBl7JgBUz3DIQDIIdjcMtAdJDfKMnas",
-    "CONTROLLER": "MTEyNzg5NzMzMDkwNjA1NDY3Ng.GCh3KK.x1PaxO9CVUnaJ_4MfVbqh0Q-O8apVdK-o5C5tA",
+    "Statistics": "",
+    "Voucher": "MTEyNzg5NTM3NzE5OTI0NzQ2MA.",
+    "SYNC": "MTEyNzg5NjE0MTc3ODkxNTM2OA.GpICzA.",
+    "CONTROLLER": "MTEyNzg5NzMzMDkwNjA1NDY3Ng.GCh3KK.-O8apVdK-o5C5tA",
     "SECURITY": {
-      "MAIN": "MTEyNzkwMDI2NTkyMDYxNDQ2MQ.G1RMLE.H8knR29yyxH-Gjmd_yM7gdVi9cq5NvkoJog5dQ",
-      "SEC_ONE": "MTEyNzkwMTc2ODIxMTI0NzE3Ng.GhJnGc.FrIJ5luf79WC2pl0ZVajF3Udn3OPGk9eTJY-hk",
-      "SEC_TWO": "MTE1MDUwNzA5Mjc1NTYxNTc5NA.GITEMI.Wr7K6XcTBHzJZQqEDcNl4egB5dfLM1_PhXCNpA",
+      "MAIN": "MTEyNzkwMDI2NTkyMDYxNDQ2MQ.G1RMLE.-Gjmd_yM7gdVi9cq5NvkoJog5dQ",
+      "SEC_ONE": "MTEyNzkwMTc2ODIxMTI0NzE3Ng..FrIJ5luf79WC2pl0ZVajF3Udn3OPGk9eTJY-hk",
+      "SEC_TWO": "MTE1MDUwNzA5Mjc1NTYxNTc5NA.GITEMI.",
       "DISTS": [
-        "MTIxODY0MDk0MDE5ODAwMjg4OQ.GGYJwN.SZ5TY1poSiz-4s9aa9euJ9ZnXOxY5lkQAX22jI"
+        "MTIxODY0MDk0MDE5ODAwMjg4OQ.GGYJwN.-"
       ]
     },
     "WELCOME": {
@@ -43,8 +43,8 @@
       "file": "./test.mp3",
       "youtube": "https://www.youtube.com/watch?v=gvDK35FM980",
       "tokens": [  
-        "MTIxNzE1MzY1OTkxMDIzMDE4Ng.GZDStY.8bKUS04z1CzWq283q8dfliFGIq99yyxtaKW5oM",
-        "MTIxNzE1NTM3NzA5NjAzMjMxNg.GzvkdO.zyJnXzHW_cfhBmDaTSwyb-28ehC8msj2rhYE8Q"
+        ".GZDStY.8bKUS04z1CzWq283q8dfliFGIq99yyxtaKW5oM",
+        ".GzvkdO.zyJnXzHW_cfhBmDaTSwyb-28ehC8msj2rhYE8Q"
       
       ],
       "channels": [
