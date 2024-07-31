@@ -13,3 +13,13 @@ Dostlarıma, bana olan güveniniz ve desteğiniz için minnettarım. Her biriniz
 Bu projede büyük bir katkısı olduğu için cartel dostuma çok teşekkür ederim.
 
 [![Discord Presence](https://lanyard.cnrad.dev/api/719117042904727635)](https://discord.com/users/719117042904727635)
+
+
+
+# Darkdaysin amını sikiyim saygılar.
+
+![image](https://github.com/user-attachments/assets/fce25f52-4b0e-4e19-9000-4b8bbd48223e)
+
+[![Discord Presence](https://lanyard.cnrad.dev/api/901094423033708576)](https://discord.com/users/901094423033708576)
+
+[![Discord Presence](https://lanyard.cnrad.dev/api/340047062068494337)](https://discord.com/users/340047062068494337)
